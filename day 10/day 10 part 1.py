@@ -2,7 +2,7 @@ north = ['|', 'L', 'J']
 south = ['|', '7', 'F']
 west = ['-', 'J', '7']
 east = ['-', 'L', 'F']
-
+test = "asdfsd"
 
 def main():
     file = open("data.txt", 'r')
